@@ -1,0 +1,20 @@
+{
+  "name": "boostcamp-my-promise",
+  "version": "1.0.0",
+  "description": "피어세션 활동 - Promise 객체 구현하기",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WOOSERK/boostcamp-my-promise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WOOSERK/boostcamp-my-promise/issues"
+  },
+  "homepage": "https://github.com/WOOSERK/boostcamp-my-promise#readme",
+  "type": "module"
+}
